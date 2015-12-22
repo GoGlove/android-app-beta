@@ -11,8 +11,8 @@ The Android App allows further customization of GoGlove and enables advanced fea
 ###Installation
 1. On your Android phone, go to Settings->Security and check the button next to "Unkown Sources. Allow installation of apps from unknown sources"
 2. Open this website on your Android phone
-3. Click View Code, then click on the folder GoGlove-android-app-beta-0.1.2
-4. Click on the file GoGlove_Android_0.1.2.apk. Your phone will download this file
+3. Click View Code, then click on the folder GoGlove-android-app-beta-0.1.3
+4. Click on the file GoGlove_Android_0.1.3.apk. Your phone will download this file
 5. Depending on your manufacturer, you can access the file directly from the Notification drop-down or in your Downloads app. Click on the file and you should be prompted to install the app
 
 ###Using the App
